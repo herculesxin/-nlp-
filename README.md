@@ -39,9 +39,7 @@ A simple chat demo for  aidoctor
 
 ## How to use
 
-```
-$ cd LAW_QA
-$ npm install
+$ npm instll
 $ node index.js
 ```
 

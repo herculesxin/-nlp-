@@ -1,5 +1,5 @@
 # -nlp-
-基于nlp的医疗问答系统
+基于nlp_rasa的医疗问答系统
 Train model by running:
 
 ```
